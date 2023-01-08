@@ -1,0 +1,25 @@
+body.main-page h1 {
+    text-align: center;
+}
+
+h1 {
+    background-color: darkcyan;
+}
+
+body {
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+
+body ul {
+    color: darkolivegreen;
+}
+
+body ol {
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
